@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nealk18
 - 👀 I’m interested in software and hardware development
 - 🌱 I’m currently learning AI and ML
-- 📫 How to reach me: I
+- 📫 How to reach me: https://www.linkedin.com/in/neal-kaushal/ 
 - 😄 Pronouns: he/him
 
 <!---
